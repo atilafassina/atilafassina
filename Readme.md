@@ -1,4 +1,4 @@
-[![https://atila.io](/header.png)](https://atila.io)
+[![https://atila.io](https://raw.githubusercontent.com/atilafassina/atilafassina/master/header.png)](https://atila.io)
 
 ## Yo, get in touch
 
