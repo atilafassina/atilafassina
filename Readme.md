@@ -1,8 +1,13 @@
-[![https://atila.io](https://raw.githubusercontent.com/atilafassina/atilafassina/master/header.png)](https://atila.io)
+<div align="center">
+  <a href="https://atila.io/all-about-next">
+    <img src="https://raw.githubusercontent.com/atilafassina/atilafassina/master/course-banner.png" alt="All About NextJS banner" />
+  </a>
+  <h2>
+    All About NextJS
+  </h2>
 
-## Yo, get in touch
+Learn to build amazing apps with NextJS, TypeScript, and much more
 
-- [Atila.io](https://atila.io)
-- [Twitter](https://atila.io/twitter)
-- [Dev](https://atila.io/dev)
-- [Scope Leak on Youtube](https://atila.io/youtube)
+💡 check out for more at [Atila.io](https://atila.io)
+
+</div>
