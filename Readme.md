@@ -10,7 +10,7 @@
 
 
 </div>
-
+<!--
  <br /><br /><br />
 
 <div align="center">
@@ -27,3 +27,4 @@ The App Directory routing architecture is probably the widest change in Next.js 
 
     
 </div>
+-->
